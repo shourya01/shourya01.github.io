@@ -11,6 +11,12 @@ My research interests include various aspects of Networked Control Systems.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+# Research
+
+To date, I have co-authored two peer-reviewed papers. 
+
+### Event-Triggered Second Moment Stabilization under Markov Packet Drops ([Link](https://ieeexplore.ieee.org/document/8715576))
+
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
