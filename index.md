@@ -57,119 +57,35 @@ actual solution vanished.
 We validate our algorithm by solving several non-trivial ODE's proposed in chemical engineering literature using
 our method using MATLAB.
 
+# Extras
 
-There should be whitespace between paragraphs.
-    
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Pixxel Space
 
-# Header 1
+I am working as an intern in Pixxel Space, a startup company which is working to launch a constellation of earth observing satellites.
+The constellation will be used alongside advanced AI for predictive analysis of land phenomenon for customers.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+As a part of the company, I helped in co-writing [**Orbital Debris Assessment Report**](https://docs.fcc.gov/public/attachments/DOC-354773A1.pdf), which is
+required by any satellite operator for FCC to license their satellite launch.
 
-## Header 2
+I also gained exposure to softwares such as NASA's GMAT, AGI's STK, and a.i. Solutions' FreeFlyer.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Multibeam Satellite Precoding
 
-### Header 3
+I undertook a graded Design Project under the guidance of [Dr. Nitin Sharma](https://universe.bits-pilani.ac.in/goa/nitinn/profile). As a part of
+the project, I understood the concept of signal power management and precoding in communication systems. I also proposed a few methods for efficient
+precoding in a SATCOM (Satellite Communication) system.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Hult Prize 2016 (Dubai Finals)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Hult Prize is an annual entrepreneurship competition organized on a global scale to encourage innovative entrepreneurial solutions to big world problems.
 
-#### Header 4
+I was a part of _Project Vriddhi_, a team of 4 BITS Pilani, Goa students. We proposed an idea for urban decongestion using scheduled & shared transportation.
+This was a response to solve the problem of [urban crowded slums](http://www.hultprize.org/wp-content/uploads/2017/07/Hult-Prize-2016-Case-Study_FINAL.compressed.pdf),
+which was the Hult Prize Challenge for 2016. 
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Our model included spatial decongestion of slums by an innovtive transport management system, which would include apps/SMS alerts for the resident of the slums,
+which would be networked to the employers and transport vehicles. This would allow precise co-ordination of manpower through networked transportation, even if the 
+job requirement was far away from the slum. This would enable the slum-dwelling labour to become competitive in the job market and earn a respectable living.
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+We implelented a prototype in the Zari slum of Goa, and the results allowed us to win the Hult Regional Finals at Goa. We then presented our idea at the Dubai finals
+in front of eminent investors, technocrats, and social workers.
