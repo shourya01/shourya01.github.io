@@ -6,6 +6,7 @@ Hi, I am Shourya Bose, an aspiring researcher in the field of Control Theory.
 
 Currently I am a research intern at the Department of Electrical Engineering
 at the Indian Institute of Science in the [Control and Network Systems Group](http://www.ee.iisc.ac.in/people/faculty/pavant/group.html).
+This intership is to satisfy the requirement of my college thesis.
 I will be graduating from the Dual Degree scheme
 at BITS Pilani (Goa Campus) with M.Sc. (_Hons._) Mathematics, and B.E. (_Hons._) Electrical and
 Electronics Engineering at the end of December 2019.
@@ -27,18 +28,18 @@ My previous publications (2) are as follows:
 
 **Presented at the Fifth Indian Control Conference, IIT Delhi, 2019**
 
-This paper deals with networked control system wherein the system evolution is noisy.
-Furthermore, in the considered system, state measurements are made by a sensor and control action is apploed by a controller. However,
-the sesnor and the controller are not co-located, and must instead communicate over an unreliable communication channel.
+This paper deals with networked control systems wherein the system evolution is noisy.
+Furthermore, in the considered system, state measurements are made by a sensor and control action is applied by a controller. However,
+the sensor and the controller are not co-located, and must instead communicate over an unreliable communication channel.
 
 In this specific setting, we consider a system whose evolution is linear with additive noise. Furthermore, we model the channel
-as a **Markov channel**, which is a class of channels broad enough to cover practical channels with packet-based communications
-wherein packet losses are possible. Assuming that the system is stabilizable in closed-loop, we propose a transmission algorithm
-which ensures that the stabilization of the channel also takes place over said channel. We provide a theoretical proof to demonstrate
+as a **Markov channel**, which is a class of channels broad enough to cover practical channels with packet-based communications,
+wherein packet losses are possible. Assuming that the system is stabilizable in closed-loop, we propose a transmission policy
+which ensures that the stabilization of the system also takes place over said channel. We provide a theoretical proof to demonstrate
 the same.
 
 Furthermore, we carry out a transmission fraction analysis, which demonstrates that our algorithm leads to a judicious use of channel resources.
-Simulations carried out in MATLAB to validate the theoretical results are also presented.
+Simulations carried out in MATLAB to validate the theoretical result, are also presented.
 
 ### Numerical Solution for a System of Fractional Differential Equations with Applications in Fluid Dynamics and Chemical Engineering ([Link](https://www.degruyter.com/view/j/ijcre.2017.15.issue-5/ijcre-2017-0093/ijcre-2017-0093.xml))
 
@@ -50,19 +51,19 @@ derivative using the Haar Wavelet as a functional basis, and then use a Galerkin
 of the fractional derivative.
 
 The solution methodology involves computing the fractional integral of the haar wavelet, for which a closed-form matrix representation
-already exists in literature. We then carry out an error analysis of the residual, and this allows
-us to demonstrate that as the number of haar wavelet bases used increases, the error between the proposed numerical method and the
-actual solution vanished.
+already exists in literature. We then carry out an optimization involving minimization of the residual, and this allows
+us to demonstrate that as the number of haar wavelet bases used increases, the error between the proposed numerical solution and the
+actual solution vanishes.
 
 We validate our algorithm by solving several non-trivial ODE's proposed in chemical engineering literature using
-our method using MATLAB.
+our method on MATLAB.
 
 # Extras
 
 ### Pixxel Space
 
-I am working as an intern in Pixxel Space, a startup company which is working to launch a constellation of earth observing satellites.
-The constellation will be used alongside advanced AI for predictive analysis of land phenomenon for customers.
+I am working as an intern in Pixxel Space, a startup company which is aiming to launch a constellation of earth observing satellites.
+Data collected from this constellation will be fed to advanced AI for predictive analysis of soil components for customers.
 
 As a part of the company, I helped in co-writing **Orbital Debris Assessment Report (ODAR)** ([what is ODAR?](https://docs.fcc.gov/public/attachments/DOC-354773A1.pdf)), which is
 required by any satellite operator for FCC to license their satellite launch.
