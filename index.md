@@ -14,16 +14,16 @@ My research interests include various aspects of Networked Control Systems.
 
 You can download my CV [_**here**_](./shourya_bose_curr_vitae.pdf).
 
-_Jump to section:_ [**Research**](#Research)
+_Jump to section:_ [**Research**](#Research) | [**Header1**](#Header1)
 
-# Research
+#Research
 
 Currently, I am working as a co-author on a journal paper on stabilization of stochastic systems over channels
 modeled as **decision-based Markov channels**. For more information on this topic, please refer to the ICC conference paper below.
 
 My previous publications (2) are as follows:
 
-### Event-Triggered Second Moment Stabilization under Markov Packet Drops ([Link](https://ieeexplore.ieee.org/document/8715576))
+###Event-Triggered Second Moment Stabilization under Markov Packet Drops ([Link](https://ieeexplore.ieee.org/document/8715576))
 
 **Presented at the Fifth Indian Control Conference, IIT Delhi, 2019**
 
@@ -40,7 +40,7 @@ the same.
 Furthermore, we carry out a transmission fraction analysis, which demonstrates that our algorithm leads to a judicious use of channel resources.
 Simulations carried out in MATLAB to validate the theoretical results are also presented.
 
-### Numerical Solution for a System of Fractional Differential Equations with Applications in Fluid Dynamics and Chemical Engineering ([Link](https://www.degruyter.com/view/j/ijcre.2017.15.issue-5/ijcre-2017-0093/ijcre-2017-0093.xml))
+###Numerical Solution for a System of Fractional Differential Equations with Applications in Fluid Dynamics and Chemical Engineering ([Link](https://www.degruyter.com/view/j/ijcre.2017.15.issue-5/ijcre-2017-0093/ijcre-2017-0093.xml))
 
 **Published in International Journal of Chemical Reactor Engineering (DeGruyter)**
 
@@ -62,7 +62,7 @@ There should be whitespace between paragraphs.
     
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+#Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
