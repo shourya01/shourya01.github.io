@@ -12,7 +12,7 @@ Electronics Engineering at the end of December 2019.
 
 My research interests include various aspects of Networked Control Systems.
 
-You can download my CV [here](./shourya_bose_curr_vitae.pdf).
+You can download my CV [**here**](./shourya_bose_curr_vitae.pdf).
 
 # Research
 
