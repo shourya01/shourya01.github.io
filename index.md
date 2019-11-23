@@ -14,7 +14,7 @@ My research interests include various aspects of Networked Control Systems.
 
 You can download my CV [_**here**_](./shourya_bose_curr_vitae.pdf).
 
-_Jump to section:_ [**Research**](#research), [**Extras**](#extras)
+_Jump to section:_ [Research](#research), [Extras](#extras)
 
 # Research
 
