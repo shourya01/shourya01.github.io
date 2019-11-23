@@ -21,6 +21,7 @@ _Jump to section:_ [Research](#research), [Other Works](#other-works), [Hobby Co
 
 Currently, I am working as a co-author on a journal paper on stabilization of stochastic systems over channels
 modeled as **decision-based Markov channels**. This paper is slated to be submitted to a reputed IEEE Journal soon.
+
 For a preliminary conference version (without the decision-based aspect of the channel), please refer to the ICC paper below.
 
 My previous publications (2) are as follows:
