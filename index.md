@@ -5,7 +5,9 @@ layout: default
 Hi, I am Shourya Bose, an aspiring researcher in the field of Control Theory.
 
 Currently I am a research intern at the Department of Electrical Engineering
-at the Indian Institute of Science. 
+at the Indian Institute of Science. I will be graduating from the Dual Degree scheme
+at BITS Pilani (Goa Campus) with M.Sc. (Hons.) Mathematics, and B.E. (Hons.) Electrical and
+Electronics Engineering at the end of December 2019.
 
 My research interests include various aspects of Networked Control Systems.
 
