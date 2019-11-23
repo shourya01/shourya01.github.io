@@ -81,21 +81,21 @@ precoding in a SATCOM (Satellite Communication) system.
 Hult Prize is an annual entrepreneurship competition organized on a global scale to encourage innovative entrepreneurial solutions to big world problems.
 
 I was a part of _Project Vriddhi_, a team of 4 BITS Pilani, Goa students. We proposed an idea for urban decongestion using scheduled & shared transportation.
-This was a response to solve the problem of [urban crowded slums](http://www.hultprize.org/wp-content/uploads/2017/07/Hult-Prize-2016-Case-Study_FINAL.compressed.pdf),
+This was in response to solve the problem of [urban crowded slums](http://www.hultprize.org/wp-content/uploads/2017/07/Hult-Prize-2016-Case-Study_FINAL.compressed.pdf),
 which was the Hult Prize Challenge for 2016. 
 
-Our model included spatial decongestion of slums by an innovtive transport management system, which would include apps/SMS alerts for the resident of the slums,
-which would be networked to the employers and transport vehicles. This would allow precise co-ordination of manpower through networked transportation, even if the 
+Our model included spatial decongestion of slums by an innovtive transport management system, which would include app notifications/SMS alerts for the employed residents,
+which would be networked with the employers and transport vehicles. This would allow precise co-ordination of manpower through networked transportation, even if the 
 job requirement was far away from the slum. This would enable the slum-dwelling labour to become competitive in the job market and earn a respectable living.
 
-We implelented a prototype in the Zari slum of Goa, and the results allowed us to win the Hult Regional Finals at Goa. We then presented our idea at the Dubai finals
+We implemented a prototype in the Zari slum of Goa, and the results allowed us to win the Hult Regional Finals at Goa. We then presented our idea at the Dubai finals
 in front of eminent investors, technocrats, and social workers.
 
 # Hobby Codes
 
 ### Unwinnable Tic-tac-toe ([Link](https://github.com/shourya01/minimax_implementation))
 
-I wrote a basic code in C++ to implement a console tic-tac-toe game that is unwinnable by the human player.
+I wrote a basic code in C++ to implement a console-based tic-tac-toe game that is un-winnable by the human player.
 This was achieved by using the Minimax algorithm to minimize a loss function corresponding to the possibility
 of the machine losing. This loss function is re-evaluated after every human player move to provide provable impossibility
 of the human player winning.
