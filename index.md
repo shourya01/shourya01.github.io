@@ -5,7 +5,7 @@ layout: default
 Hi, I am Shourya Bose, an aspiring researcher in the field of Control Theory.
 
 Currently I am a research intern at the Department of Electrical Engineering
-at the Indian Institute of Science in the [**Control and Network Systems Group**](http://www.ee.iisc.ac.in/people/faculty/pavant/group.html).
+at the Indian Institute of Science in the [Control and Network Systems Group](http://www.ee.iisc.ac.in/people/faculty/pavant/group.html).
 I will be graduating from the Dual Degree scheme
 at BITS Pilani (Goa Campus) with M.Sc. (_Hons._) Mathematics, and B.E. (_Hons._) Electrical and
 Electronics Engineering at the end of December 2019.
@@ -14,7 +14,7 @@ My research interests include various aspects of Networked Control Systems.
 
 You can download my CV [_**here**_](./shourya_bose_curr_vitae.pdf).
 
-_Jump to section:_ [Research](#research), [Extras](#extras)
+_Jump to section:_ [Research](#research), [Extras](#extras), [Hobby Codes](#hobby-codes)
 
 # Research
 
@@ -89,3 +89,12 @@ job requirement was far away from the slum. This would enable the slum-dwelling 
 
 We implelented a prototype in the Zari slum of Goa, and the results allowed us to win the Hult Regional Finals at Goa. We then presented our idea at the Dubai finals
 in front of eminent investors, technocrats, and social workers.
+
+# Hobby Codes
+
+### Unwinnable Tic-tac-toe ((Link)[https://github.com/shourya01/minimax_implementation])
+
+I wrote a basic code in C++ to implement a console tic-tac-toe game that is unwinnable by the human player.
+This was achieved by using the Minimax algorithm to minimize a loss function corresponding to the possibility
+of the machine losing. This loss function is re-evaluated after every human player move to provide provable impossibility
+of the human player winning.
