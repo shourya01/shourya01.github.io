@@ -26,7 +26,7 @@ For a preliminary conference version (without the decision-based aspect of the c
 
 My previous publications (2) are as follows:
 
-### Event-Triggered Second Moment Stabilization under Markov Packet Drops ([Link](https://ieeexplore.ieee.org/document/8715576))
+### Event-Triggered Second Moment Stabilization under Markov Packet Drops ([Link](https://ieeexplore.ieee.org/document/8715576), [PDF](./bose_icc2019.pdf))
 
 **Presented at the Fifth Indian Control Conference, IIT Delhi, 2019**
 
@@ -43,7 +43,7 @@ the same.
 Furthermore, we carry out a transmission fraction analysis, which demonstrates that our algorithm leads to a judicious use of channel resources.
 Simulations carried out in MATLAB to validate the theoretical result, are also presented.
 
-### Numerical Solution for a System of Fractional Differential Equations with Applications in Fluid Dynamics and Chemical Engineering ([Link](https://www.degruyter.com/view/j/ijcre.2017.15.issue-5/ijcre-2017-0093/ijcre-2017-0093.xml))
+### Numerical Solution for a System of Fractional Differential Equations with Applications in Fluid Dynamics and Chemical Engineering ([Link](https://www.degruyter.com/view/j/ijcre.2017.15.issue-5/ijcre-2017-0093/ijcre-2017-0093.xml), [PDF](./bose_ijcre2017.pdf))
 
 **Published in International Journal of Chemical Reactor Engineering (DeGruyter)**
 
