@@ -15,7 +15,7 @@ My research interests include various aspects of Networked Control Systems.
 
 You can download my CV [_**here**_](./shourya_bose_curr_vitae.pdf).
 
-_Jump to section:_ [Research](#research), [Extras](#extras), [Hobby Codes](#hobby-codes)
+_Jump to section:_ [Research](#research), [Other Works](#other-works), [Hobby Codes](#hobby-codes)
 
 # Research
 
@@ -58,7 +58,7 @@ actual solution vanishes.
 We validate our algorithm by solving several non-trivial ODE's proposed in chemical engineering literature using
 our method on MATLAB.
 
-# Extras
+# Other Works
 
 ### Pixxel Space
 
