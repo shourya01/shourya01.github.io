@@ -64,7 +64,7 @@ our method using MATLAB.
 I am working as an intern in Pixxel Space, a startup company which is working to launch a constellation of earth observing satellites.
 The constellation will be used alongside advanced AI for predictive analysis of land phenomenon for customers.
 
-As a part of the company, I helped in co-writing [**Orbital Debris Assessment Report**](https://docs.fcc.gov/public/attachments/DOC-354773A1.pdf), which is
+As a part of the company, I helped in co-writing [Orbital Debris Assessment Report](https://docs.fcc.gov/public/attachments/DOC-354773A1.pdf), which is
 required by any satellite operator for FCC to license their satellite launch.
 
 I also gained exposure to softwares such as NASA's GMAT, AGI's STK, and a.i. Solutions' FreeFlyer.
