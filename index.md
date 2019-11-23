@@ -12,7 +12,7 @@ Electronics Engineering at the end of December 2019.
 
 My research interests include various aspects of Networked Control Systems.
 
-You can download my CV [**here**](./shourya_bose_curr_vitae.pdf).
+You can download my CV [here](./shourya_bose_curr_vitae.pdf).
 
 # Research
 
@@ -21,7 +21,7 @@ modeled as **decision-based Markov channels**. For more information on this topi
 
 My previous publications (2) are as follows:
 
-### Event-Triggered Second Moment Stabilization under Markov Packet Drops ([**Link**](https://ieeexplore.ieee.org/document/8715576))
+### Event-Triggered Second Moment Stabilization under Markov Packet Drops ([Link](https://ieeexplore.ieee.org/document/8715576))
 
 **Presented at the Fifth Indian Control Conference, IIT Delhi, 2019**
 
@@ -38,7 +38,7 @@ the same.
 Furthermore, we carry out a transmission fraction analysis, which demonstrates that our algorithm leads to a judicious use of channel resources.
 Simulations carried out in MATLAB to validate the theoretical results are also presented.
 
-### Numerical Solution for a System of Fractional Differential Equations with Applications in Fluid Dynamics and Chemical Engineering ([**Link**](https://www.degruyter.com/view/j/ijcre.2017.15.issue-5/ijcre-2017-0093/ijcre-2017-0093.xml))
+### Numerical Solution for a System of Fractional Differential Equations with Applications in Fluid Dynamics and Chemical Engineering ([Link](https://www.degruyter.com/view/j/ijcre.2017.15.issue-5/ijcre-2017-0093/ijcre-2017-0093.xml))
 
 **Published in International Journal of Chemical Reactor Engineering (DeGruyter)**
 
