@@ -92,7 +92,7 @@ in front of eminent investors, technocrats, and social workers.
 
 # Hobby Codes
 
-### Unwinnable Tic-tac-toe ((Link)[https://github.com/shourya01/minimax_implementation])
+### Unwinnable Tic-tac-toe ([Link](https://github.com/shourya01/minimax_implementation)
 
 I wrote a basic code in C++ to implement a console tic-tac-toe game that is unwinnable by the human player.
 This was achieved by using the Minimax algorithm to minimize a loss function corresponding to the possibility
