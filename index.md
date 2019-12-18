@@ -19,12 +19,14 @@ _Jump to section:_ [Research](#research), [Other Works](#other-works), [Hobby Co
 
 # Research
 
-Currently, I am working as a co-author on a journal paper on stabilization of stochastic systems over channels
-modeled as **decision-based Markov channels**. This paper is slated to be submitted to a reputed IEEE Journal soon.
+### Control Under Action-Dependent Markov PacketDrops: An Event-Triggered Approach ([Link](https://arxiv.org/abs/1912.03728), [PDF](https://arxiv.org/pdf/1912.03728.pdf))
 
-For a preliminary conference version (without the decision-based aspect of the channel), please refer to the ICC paper below.
+This paper builds on the ICC conference paper (see below) and considers stabilization of a linear system with noisy evolution over a class of channels called **action-dependent Markov**.
+This is a general class of packet-based channels wherein the channel state on the next timestep is dependent on both the channel state on the current timestep, as well as the action taken on the current timestep. In the current paper, said action refers to a transmission being made over the channel.
 
-My previous publications (2) are as follows:
+We propose a transmission policy to stabilize the system by transmitting plant state via the sensor to the controller over this channel. The algorithm determining the necessity of transmission on a given timestep is based on the philosophy of event-triggering, which aims to carry out control actions only when necessary, as opposed to actions carried out on every timestep. We provide a theoretical performance guarantee, and use the idea of _transmission fraction_ to demonstrate the effectiveness of our algorithm in achieving a lower utilization of the channel.
+
+This paper has been submitted to **IEEE Transactions on Control of Network Systems**.
 
 ### Event-Triggered Second Moment Stabilization under Markov Packet Drops ([Link](https://ieeexplore.ieee.org/document/8715576), [PDF](./bose_icc2019.pdf))
 
