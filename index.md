@@ -2,16 +2,13 @@
 layout: default
 ---
 
-Hi, I am Shourya Bose, an aspiring researcher in the field of Control Theory.
+Hi, I am Shourya Bose, incoming PhD candidate at University of California, Santa Cruz. My research interests span control theory, networked control, and power systems.
 
-Currently I am a research intern at the Department of Electrical Engineering
-at the Indian Institute of Science in the [Control and Network Systems Group](http://www.ee.iisc.ac.in/people/faculty/pavant/group.html).
+Currently I am a visiting researcher at the Department of Electrical Engineering
+at Indian Institute of Science in the [Control and Network Systems Group](http://www.ee.iisc.ac.in/people/faculty/pavant/group.html).
 
-I will be graduating from the Dual Degree scheme
-at BITS Pilani (Goa Campus) with M.Sc. (_Hons._) Mathematics, and B.E. (_Hons._) Electrical and
-Electronics Engineering at the end of December 2019.
-
-My research interests include various aspects of Networked Control Systems.
+I graduated from with a Dual Degree from BITS Pilani (KK Birla Goa Campus) on December, 2019. I majored in M.Sc. (_Hons._) Mathematics, and B.E. (_Hons._) Electrical and
+Electronics Engineering. I graduated with a First Class grade in both the subjects.
 
 You can download my CV [_**here**_](./shourya_bose_curr_vitae.pdf).
 
@@ -19,9 +16,9 @@ _Jump to section:_ [Research](#research), [Other Works](#other-works), [Hobby Co
 
 # Research
 
-### Control Under Action-Dependent Markov PacketDrops: An Event-Triggered Approach ([Link](https://arxiv.org/abs/1912.03728), [PDF](https://arxiv.org/pdf/1912.03728.pdf))
+### Control Under Action-Dependent Markov PacketDrops: An Event-Triggered Approach ([Link](https://arxiv.org/abs/1912.03728), [PDF](./bose_iet2020.pdf))
 
-**Submitted to IEEE Transactions on Control of Network Systems**.
+**Submitted to IET Control Theory and Applications**.
 
 This paper builds on the ICC conference paper (see below) and considers stabilization of a linear system with noisy evolution over a class of channels called **action-dependent Markov**.
 This is a general class of packet-based channels wherein the channel state on the next timestep is dependent on both the channel state on the current timestep, as well as the action taken on the current timestep. In the current paper, said action refers to a transmission being made over the channel.
