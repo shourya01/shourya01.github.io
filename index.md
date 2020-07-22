@@ -73,7 +73,7 @@ I also gained exposure to softwares such as NASA's GMAT, AGI's STK, and a.i. Sol
 
 ### Multibeam Satellite Precoding
 
-I undertook a graded Design Project under the guidance of [Dr. Nitin Sharma](https://universe.bits-pilani.ac.in/goa/nitinn/profile). As a part of
+I undertook a graded Design Project under the guidance of Dr. Nitin Sharma at BITS Pilani KK Birla Goa Campus. As a part of
 the project, I understood the concept of signal power management and precoding in communication systems. I also proposed a few methods for efficient
 precoding in a SATCOM (Satellite Communication) system.
 
