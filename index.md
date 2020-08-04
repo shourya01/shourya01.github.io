@@ -16,7 +16,7 @@ _Jump to section:_ [Research](#research), [Other Works](#other-works), [Hobby Co
 
 # Research
 
-### CEvent-Triggered Stabilization under Action-Dependent Markov Packet Drops ([Link](https://arxiv.org/abs/1912.03728), [PDF](./bose_iet2020.pdf))
+### Event-Triggered Stabilization under Action-Dependent Markov Packet Drops ([Link](https://arxiv.org/abs/1912.03728), [PDF](./bose_iet2020.pdf))
 
 **Submitted to IET Control Theory and Applications**.
 
