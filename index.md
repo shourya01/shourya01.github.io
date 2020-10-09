@@ -2,10 +2,10 @@
 layout: default
 ---
 
-Hi, I am Shourya Bose, incoming PhD candidate at University of California, Santa Cruz. My research interests span control theory, networked control, and power systems.
+Hi, I am Shourya Bose. I am currently pursuing my PhD in the [eODAL Lab](https://people.ucsc.edu/~yzhan419/group.html) at University of California, Santa Cruz. My research interests span control theory, networked control, and power systems.
 
-Currently I am a visiting researcher at the Department of Electrical Engineering
-at Indian Institute of Science in the [Control and Network Systems Group](http://www.ee.iisc.ac.in/people/faculty/pavant/group.html).
+Previously I was a Research Associate (RA) at the Department of Electrical Engineering
+at Indian Institute of Science (IISc) Bengaluru in the [Control and Network Systems Group](http://www.ee.iisc.ac.in/people/faculty/pavant/group.html).
 
 I graduated from with a Dual Degree from BITS Pilani (KK Birla Goa Campus) on December, 2019. I majored in M.Sc. (_Hons._) Mathematics, and B.E. (_Hons._) Electrical and
 Electronics Engineering. I graduated with a First Class grade in both the subjects.
@@ -63,17 +63,15 @@ our method on MATLAB.
 
 ### Pixxel Space
 
-I am working as an intern in Pixxel Space, a startup company which is aiming to launch a constellation of earth observing satellites.
-Data collected from this constellation will be fed to advanced AI for predictive analysis of soil components for customers.
+I worked as a research intern at Pixxel Space. Pixxel is aiming to launch a constellation of earth observing satellites and revolutionize space-based data collection by using it to solve day-to-day problems.
 
-As a part of the company, I helped in co-writing **Orbital Debris Assessment Report (ODAR)** ([what is ODAR?](https://docs.fcc.gov/public/attachments/DOC-354773A1.pdf)), which is
-required by any satellite operator for FCC to license their satellite launch.
+As a part of the company, I was involved in orbital trajectory simulation for certain upcoming satellites.
 
 I also gained exposure to softwares such as NASA's GMAT, AGI's STK, and a.i. Solutions' FreeFlyer.
 
 ### Multibeam Satellite Precoding
 
-I undertook a graded Design Project under the guidance of Dr. Nitin Sharma at BITS Pilani KK Birla Goa Campus. As a part of
+I undertook a graded Design Project at BITS Pilani KK Birla Goa Campus. As a part of
 the project, I understood the concept of signal power management and precoding in communication systems. I also proposed a few methods for efficient
 precoding in a SATCOM (Satellite Communication) system.
 
@@ -99,4 +97,5 @@ in front of eminent investors, technocrats, and social workers.
 I wrote a basic code in C++ to implement a console-based tic-tac-toe game that is un-winnable by the human player.
 This was achieved by using the Minimax algorithm to minimize a loss function corresponding to the possibility
 of the machine losing. This loss function is re-evaluated after every human player move to provide provable impossibility
-of the human player winning.
+of the human player winning. _2020 Update: If I find time, maybe I'll make some changes to the code to avoid precluding any 
+possibility of the human player winning._
