@@ -65,7 +65,7 @@ our method on MATLAB.
 
 I worked as a research intern at Pixxel Space. Pixxel is aiming to launch a constellation of earth observing satellites and revolutionize space-based data collection by using it to solve day-to-day problems.
 
-As a part of the company, I was involved in orbital trajectory simulation for certain upcoming satellites.
+As a part of the company, I was involved in spacecraft orbital trajectory simulation.
 
 I also gained exposure to softwares such as NASA's GMAT, AGI's STK, and a.i. Solutions' FreeFlyer.
 
@@ -77,7 +77,7 @@ precoding in a SATCOM (Satellite Communication) system.
 
 ### Hult Prize 2016 (Dubai Finals)
 
-Hult Prize is an annual entrepreneurship competition organized on a global scale to encourage innovative entrepreneurial solutions to big world problems.
+Hult Prize is an annual entrepreneurship competition organized on a global scale to encourage innovative entrepreneurial solutions to large-scale social problems.
 
 I was a part of _Project Vriddhi_, a team of 4 BITS Pilani, Goa students. We proposed an idea for urban decongestion using scheduled & shared transportation.
 This was in response to solve the problem of [urban crowded slums](http://www.hultprize.org/wp-content/uploads/2017/07/Hult-Prize-2016-Case-Study_FINAL.compressed.pdf),
@@ -87,7 +87,7 @@ Our model included spatial decongestion of slums by an innovtive transport manag
 which would be networked with the employers and transport vehicles. This would allow precise co-ordination of manpower through networked transportation, even if the 
 job requirement was far away from the slum. This would enable the slum-dwelling labour to become competitive in the job market and earn a respectable living.
 
-We implemented a prototype in the Zari slum of Goa, and the results allowed us to win the Hult Regional Finals at Goa. We then presented our idea at the Dubai finals
+We implemented a prototype in the Zari slum of Goa, and the results allowed us to win the Hult Regional Finals held in Goa. We then presented our idea at the Dubai finals
 in front of eminent investors, technocrats, and social workers.
 
 # Hobby Codes
