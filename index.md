@@ -7,7 +7,7 @@ Hi, I am Shourya Bose. I am currently pursuing my PhD in the [eODAL Lab](https:/
 Previously I was a Research Associate (RA) at the Department of Electrical Engineering
 at Indian Institute of Science (IISc) Bengaluru in the [Control and Network Systems Group](http://www.ee.iisc.ac.in/people/faculty/pavant/group.html).
 
-I graduated from with a Dual Degree from BITS Pilani (KK Birla Goa Campus) on December, 2019. I majored in M.Sc. (_Hons._) Mathematics, and B.E. (_Hons._) Electrical and
+I graduated with a Dual Degree from BITS Pilani (KK Birla Goa Campus) on December, 2019. I majored in M.Sc. (_Hons._) Mathematics, and B.E. (_Hons._) Electrical and
 Electronics Engineering. I graduated with a First Class grade in both the subjects.
 
 You can download my CV [_**here**_](./shourya_bose_curr_vitae.pdf).
