@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi, I am Shourya Bose. I am currently pursuing my PhD in the [eODAL Lab](https://people.ucsc.edu/~yzhan419/group.html) at University of California, Santa Cruz. My research interests span control theory, networked control, and power systems.
+Hi, I am Shourya Bose. I am currently pursuing my PhD in the [eODAL Lab](https://people.ucsc.edu/~yzhan419/group.html) at University of California, Santa Cruz. My advisor is [Dr. Yu Zhang](https://people.ucsc.edu/~yzhan419) My research interests span control theory, networked control, and power systems.
 
 Previously I was a Research Associate (RA) at the Department of Electrical Engineering
 at Indian Institute of Science (IISc) Bengaluru in the [Control and Network Systems Group](http://www.ee.iisc.ac.in/people/faculty/pavant/group.html).
