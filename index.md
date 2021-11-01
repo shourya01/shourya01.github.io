@@ -18,23 +18,23 @@ _Jump to section:_ [Publications](#publications), [Other Works](#other-works), [
 
 ### Differentially Private Load Restoration for Microgrids with Distributed Energy Storage ([PDF](./bose_isgt2022.pdf)
 
-**Submitted for presentation in IEEE ISGT NA 2022**
+Submitted for presentation in IEEE ISGT NA 2022
 
 ### Load Restoration in Islanded Microgrids: Formulation and Solution Strategies ([PDF](./bose_mglr.pdf))
 
-**Pre-publication manuscript received INFORMS Energy, Natural Resources and the Environment (ENRE) early career best-paper award.**
+Pre-publication manuscript received INFORMS Energy, Natural Resources and the Environment (ENRE) early career best-paper award.
 
 ### Event-Triggered Second Moment Stabilization under Action-Dependent Markov Packet Drops ([Link](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cth2.12094), [PDF](./bose_iet2020.pdf))
 
-**Published in IET Control Theory and Applications**.
+Published in IET Control Theory and Applications.
 
 ### Event-Triggered Second Moment Stabilization under Markov Packet Drops ([Link](https://ieeexplore.ieee.org/document/8715576), [PDF](./bose_icc2019.pdf))
 
-**Presented at the Fifth Indian Control Conference, IIT Delhi, 2019**
+Presented at the Fifth Indian Control Conference, IIT Delhi, 2019
 
 ### Numerical Solution for a System of Fractional Differential Equations with Applications in Fluid Dynamics and Chemical Engineering ([Link](https://www.degruyter.com/view/j/ijcre.2017.15.issue-5/ijcre-2017-0093/ijcre-2017-0093.xml), [PDF](./bose_ijcre2017.pdf))
 
-**Published in International Journal of Chemical Reactor Engineering**
+Published in International Journal of Chemical Reactor Engineering
 
 # Other Works
 
