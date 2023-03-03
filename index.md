@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Hi, I am Shourya Bose. I am currently pursuing my PhD in the [eODAL Lab](https://people.ucsc.edu/~yzhan419/group.html) at University of California, Santa Cruz. My advisor is [Dr. Yu Zhang](https://people.ucsc.edu/~yzhan419). My research interests span the intersection of smart distribution grids and control theory.
+Hi, I am Shourya Bose. I am a PhD candidate with the [eODAL Lab](https://people.ucsc.edu/~yzhan419/group.html) at University of California, Santa Cruz. My advisor is [Dr. Yu Zhang](https://people.ucsc.edu/~yzhan419). 
+
+My research interests span the intersection of optimization, control theory, and machine learning, with their applications in smart distribution grids and microgrids.
 
 Previously I was a Research Associate (RA) at the Department of Electrical Engineering
 at Indian Institute of Science (IISc) Bengaluru in the [Control and Network Systems Group](http://www.ee.iisc.ac.in/people/faculty/pavant/group.html).
@@ -16,23 +18,31 @@ _Jump to section:_ [Publications](#publications), [Other Works](#other-works), [
 
 # Publications
 
-### Differentially Private Load Restoration for Microgrids with Distributed Energy Storage ([PDF](./bose_isgt2022.pdf))
+### Unsupervised Deep Learning for AC Optimal Power Flow via Lagrangian Duality ([Link](https://ieeexplore.ieee.org/abstract/document/10000707))
 
-Submitted for presentation in IEEE ISGT NA 2022
+Presented by co-author at IEEE GLOBECOM 2022
 
-### Load Restoration in Islanded Microgrids: Formulation and Solution Strategies ([PDF](./bose_mglr.pdf))
+### Co-optimization of Battery Routing and Load Restoration for Microgrids with Mobile Energy Storage Systems ([Link](https://ieeexplore.ieee.org/document/9916865))
 
-Pre-publication manuscript received INFORMS Energy, Natural Resources and the Environment (ENRE) early career best-paper award
+Presented in IEEE PES-GM 2022
 
-### Event-Triggered Second Moment Stabilization under Action-Dependent Markov Packet Drops ([Link](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cth2.12094), [PDF](./bose_iet2020.pdf))
+### Differentially Private Load Restoration for Microgrids with Distributed Energy Storage ([Link](https://ieeexplore.ieee.org/document/9817475))
+
+Presented in IEEE ISGT NA 2022
+
+### Load Restoration in Islanded Microgrids: Formulation and Solution Strategies ([ArXiv](https://arxiv.org/abs/2111.02054))
+
+Under review for journal publication. Pre-publication manuscript received INFORMS Energy, Natural Resources and the Environment (ENRE) early career best-paper award.
+
+### Event-Triggered Second Moment Stabilization under Action-Dependent Markov Packet Drops ([Link](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cth2.12094))
 
 Published in IET Control Theory and Applications
 
-### Event-Triggered Second Moment Stabilization under Markov Packet Drops ([Link](https://ieeexplore.ieee.org/document/8715576), [PDF](./bose_icc2019.pdf))
+### Event-Triggered Second Moment Stabilization under Markov Packet Drops ([Link](https://ieeexplore.ieee.org/document/8715576))
 
 Presented at the Fifth Indian Control Conference, IIT Delhi, 2019
 
-### Numerical Solution for a System of Fractional Differential Equations with Applications in Fluid Dynamics and Chemical Engineering ([Link](https://www.degruyter.com/view/j/ijcre.2017.15.issue-5/ijcre-2017-0093/ijcre-2017-0093.xml), [PDF](./bose_ijcre2017.pdf))
+### Numerical Solution for a System of Fractional Differential Equations with Applications in Fluid Dynamics and Chemical Engineering ([Link](https://www.degruyter.com/view/j/ijcre.2017.15.issue-5/ijcre-2017-0093/ijcre-2017-0093.xml))
 
 Published in International Journal of Chemical Reactor Engineering
 
