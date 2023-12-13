@@ -16,35 +16,50 @@ You can download my CV [_**here**_](./shourya_bose_curr_vitae.pdf).
 
 _Jump to section:_ [Publications](#publications), [Other Works](#other-works), [Miscellaneous](#miscellaneous)
 
-# Publications
+# First Author Publications - Journal
 
-### Unsupervised Deep Learning for AC Optimal Power Flow via Lagrangian Duality ([Link](https://ieeexplore.ieee.org/abstract/document/10000707))
 
-Presented by co-author at IEEE GLOBECOM 2022
+
+### Federated Short-Term Load Forecasting with Personalization Layers for Heterogeneous Clients ([arXiv Link](https://arxiv.org/abs/2309.13194))
+
+Authors: **Shourya Bose**, Kibaek Kim. Under review.
+
+### Learning to Optimize: Accelerating Optimal Power Flow via Data-driven Constraint Screening ([arXiv Link](https://arxiv.org/abs/2312.0727))
+
+Authors: **Shourya Bose**, Kejun Chen, Yu Zhang. Under review.
+
+### Load Restoration in Islanded Microgrids: Formulation and Solution Strategies ([Link](https://ieeexplore.ieee.org/document/10334063))
+
+Authors: **Shourya Bose**, Yu Zhang. IEEE Transactions on Control of Network Systems, 2023. Received **INFORMS ENRE Early Career Best Paper Award**.
+
+### Event-Triggered Second-Moment Stabilisation under Action-Dependent Markov Packet Drops ([Link](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cth2.12094))
+
+Authors: **Shourya Bose**, Pavankumar Tallapragada, IET Control Theory and Applications, 2021.
+
+
+# First Author Publications - Conference
+
+
+
+### Privacy-Preserving Load Forecasting for Personalized Model Obfuscation ([arXiv Link](https://arxiv.org/abs/2312.0727))
+
+Authors: **Shourya Bose**, Yu Zhang, Kibaek Kim. Under review for IEEE PES-GM 2024.
+
+### On LinDistFlow Model Congestion Pricing: Bounding the Changes in Power Tariffs ([Link](https://ieeexplore.ieee.org/document/10228016))
+
+Authors: **Shourya Bose**, Kejun Chen, Yu Zhang. IEEE ISGT 2023. Received **IEEE SYPA Travel Grand, UCSC Dean's Travel Grant**.
 
 ### Co-optimization of Battery Routing and Load Restoration for Microgrids with Mobile Energy Storage Systems ([Link](https://ieeexplore.ieee.org/document/9916865))
 
-Presented in IEEE PES-GM 2022
+Authors: **Shourya Bose**, Sifat Chowdhury, Yu Zhang, IEEE PES-GM 2022.
 
 ### Differentially Private Load Restoration for Microgrids with Distributed Energy Storage ([Link](https://ieeexplore.ieee.org/document/9817475))
 
-Presented in IEEE ISGT NA 2022
-
-### Load Restoration in Islanded Microgrids: Formulation and Solution Strategies ([ArXiv](https://arxiv.org/abs/2111.02054))
-
-Under review for journal publication. Pre-publication manuscript received INFORMS Energy, Natural Resources and the Environment (ENRE) early career best-paper award.
-
-### Event-Triggered Second Moment Stabilization under Action-Dependent Markov Packet Drops ([Link](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cth2.12094))
-
-Published in IET Control Theory and Applications
+Authors: **Shourya Bose**, Yu Zhang, IEEE ISGT NA 2022.
 
 ### Event-Triggered Second Moment Stabilization under Markov Packet Drops ([Link](https://ieeexplore.ieee.org/document/8715576))
 
-Presented at the Fifth Indian Control Conference, IIT Delhi, 2019
-
-### Numerical Solution for a System of Fractional Differential Equations with Applications in Fluid Dynamics and Chemical Engineering ([Link](https://www.degruyter.com/view/j/ijcre.2017.15.issue-5/ijcre-2017-0093/ijcre-2017-0093.xml))
-
-Published in International Journal of Chemical Reactor Engineering
+Authors: **Shourya Bose**, Pavankumar Tallapragada. Fifth Indian Control Conference, 2019.
 
 # Other Works
 
