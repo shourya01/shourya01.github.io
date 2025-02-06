@@ -2,9 +2,7 @@
 layout: default
 ---
 
-Hi, I am Shourya Bose. I am a PhD candidate with the [eODAL Lab](https://people.ucsc.edu/~yzhan419/group.html) at University of California, Santa Cruz. My advisor is [Dr. Yu Zhang](https://people.ucsc.edu/~yzhan419). 
-
-My research interests span the intersection of optimization, control theory, and machine learning, with their applications in smart distribution grids and microgrids.
+Hi, I am Shourya Bose. I am a PhD candidate with the [eODAL Lab](https://people.ucsc.edu/~yzhan419/group.html) at University of California, Santa Cruz. My advisor is [Dr. Yu Zhang](https://people.ucsc.edu/~yzhan419). My research interests span the intersection of machine learning, optimization, and control theory, all applied to electric power grids. Within machine learning, my works deal with **reinforcement learning**, **convex optimization accelerators**, **federated learning**, and **time-series foundation models**.
 
 Previously I was a Research Associate (RA) at the Department of Electrical Engineering
 at Indian Institute of Science (IISc) Bengaluru in the [Control and Network Systems Group](http://www.ee.iisc.ac.in/people/faculty/pavant/group.html).
@@ -22,11 +20,11 @@ _Jump to section:_ [Publications](#publications), [Other Works](#other-works), [
 
 ### Federated Short-Term Load Forecasting with Personalization Layers for Heterogeneous Clients ([arXiv Link](https://arxiv.org/abs/2309.13194))
 
-Authors: **Shourya Bose**, Kibaek Kim. Under review.
+Authors: **Shourya Bose**, Kibaek Kim. Report.
 
-### Learning to Optimize: Accelerating Optimal Power Flow via Data-driven Constraint Screening ([arXiv Link](https://arxiv.org/abs/2312.0727))
+### A study on applications of specialized mixture-of-experts models for accelerating convex optimal power flow problems
 
-Authors: **Shourya Bose**, Kejun Chen, Yu Zhang. Under review.
+Authors: **Shourya Bose**, Kejun Chen, Yu Zhang. Exact title and manuscript unavailable due to double-blind review requirements.
 
 ### Load Restoration in Islanded Microgrids: Formulation and Solution Strategies ([Link](https://ieeexplore.ieee.org/document/10334063))
 
@@ -39,11 +37,17 @@ Authors: **Shourya Bose**, Pavankumar Tallapragada, IET Control Theory and Appli
 
 # First Author Publications - Conference
 
+### From RNNs to Foundation Models: An Empirical Study on Commercial Building Energy Consumption ([Link](https://neurips.cc/virtual/2024/103008))
 
+Authors: **Shourya Bose**, Yijiang Li, Amy Van Sant, Yu Zhang, Kibaek Kim
 
-### Privacy-Preserving Load Forecasting for Personalized Model Obfuscation ([arXiv Link](https://arxiv.org/abs/2312.0727))
+### Addressing Heterogeneity in Federated Load Forecasting with Personalization Layers ([Link](https://arxiv.org/abs/2404.01517))
 
-Authors: **Shourya Bose**, Yu Zhang, Kibaek Kim. Under review for IEEE PES-GM 2024.
+Authors: **Shourya Bose**, Yu Zhang, Kibaek Kim. IISE Annual Conference and Expo, 2024.
+
+### Privacy-Preserving Load Forecasting for Personalized Model Obfuscation ([Link](https://ieeexplore.ieee.org/abstract/document/10689151))
+
+Authors: **Shourya Bose**, Yu Zhang, Kibaek Kim. IEEE PES-GM 2024.
 
 ### On LinDistFlow Model Congestion Pricing: Bounding the Changes in Power Tariffs ([Link](https://ieeexplore.ieee.org/document/10228016))
 
@@ -71,29 +75,14 @@ As a part of the company, I was involved in spacecraft orbit simulation.
 
 I also gained exposure to softwares such as NASA's GMAT, AGI's STK, and a.i. Solutions' FreeFlyer.
 
-### Multibeam Satellite Precoding
-
-I undertook a graded Design Project at BITS Pilani KK Birla Goa Campus. As a part of
-the project, I understood the concept of signal power management and precoding in communication systems. I also proposed a few methods for efficient
-precoding in a SATCOM (Satellite Communication) system.
-
 # Miscellaneous
 
-### Science Internship Program 2021
+### Learning to Run a Power Grid (L2RPN, 2023)
 
-I was a mentor for the Science Internship Program (SIP) 2021 organized by UCSC. The program organizes two-month interships for high-school students under the mentorship of UCSC graduate researchers in an apprentiship mode. This helps the high-school students gain an early exposure to research. I mentored my cohort of 3 students in the field of energy data analytics using Python.
+Out team (including myself, Qiuling Yang, and Yu Zhang) were the [**winners**](https://www.linkedin.com/feed/update/urn:li:activity:7108144367894233088/) of the L2RPN 2023 competition organized by TU Delft, which saw 95 teams from across the world compete in a competition to generate reinforcement-learning based methods to operate a power grid. The control action involved reconfiguring the grid topology, controlling the outputs of generators, and isolating various buses. Our strategy involved generating atomic actions which, when applied, reduced the control task to a continuous optimization problem which can be easily solved.
 
 ### Hult Prize 2016 (Dubai Finals)
 
-Hult Prize is an annual entrepreneurship competition organized on a global scale to encourage innovative entrepreneurial solutions to large-scale social problems.
-
-I was a part of _Project Vriddhi_, a team of 4 BITS Pilani, Goa students. We proposed an idea for urban decongestion using scheduled & shared transportation.
+Hult Prize is an annual entrepreneurship competition organized on a global scale to encourage innovative entrepreneurial solutions to large-scale social problems. I was a part of _Project Vriddhi_, a team of 4 BITS Pilani, Goa students. We proposed an idea for urban decongestion using scheduled & shared transportation.
 This was in response to solve the problem of [urban crowded slums](http://www.hultprize.org/wp-content/uploads/2017/07/Hult-Prize-2016-Case-Study_FINAL.compressed.pdf),
 which was the Hult Prize Challenge for 2016. 
-
-Our model included spatial decongestion of slums by an innovtive transport management system, which would include app notifications/SMS alerts for the employed residents,
-which would be networked with the employers and transport vehicles. This would allow precise co-ordination of manpower through networked transportation, even if the 
-job requirement was far away from the slum. This would enable the slum-dwelling labour to become competitive in the job market and earn a respectable living.
-
-We implemented a prototype in the Zari slum of Goa, and the results allowed us to win the Hult Regional Finals held in Goa. We then presented our idea at the Dubai finals
-in front of eminent investors, technocrats, and social workers.
