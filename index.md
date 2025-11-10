@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi, I am Shourya Bose. I am a PhD candidate with the [eODAL Lab](https://people.ucsc.edu/~yzhan419/group.html) at University of California, Santa Cruz. My advisor is [Dr. Yu Zhang](https://people.ucsc.edu/~yzhan419). My research interests span the intersection of machine learning, optimization, and control theory, all applied to electric power grids. Within machine learning, my works deal with **reinforcement learning**, **convex optimization accelerators**, **federated learning**, and **time-series foundation models**.
+Hi, I am Shourya Bose. I am a PhD candidate with the [eODAL Lab](https://people.ucsc.edu/~yzhan419/group.html) at University of California, Santa Cruz. My advisor is [Dr. Yu Zhang](https://people.ucsc.edu/~yzhan419). My research interests span the intersection of machine learning and optimization applied to electric power systems. Within machine learning, my works deal with **foundation models**, **reinforcement learning**, and **machine-learning aided optimization**.
 
 Previously I was a Research Associate (RA) at the Department of Electrical Engineering
 at Indian Institute of Science (IISc) Bengaluru in the [Control and Network Systems Group](http://www.ee.iisc.ac.in/people/faculty/pavant/group.html).
@@ -12,19 +12,37 @@ Electronics Engineering. I graduated with a First Class grade in both the subjec
 
 You can download my CV [_**here**_](./shourya_bose_curr_vitae.pdf).
 
-_Jump to section:_ [Publications](#publications), [Other Works](#other-works), [Miscellaneous](#miscellaneous)
+_Jump to section:_ [Domain Experience](#domain-experience), [Publications](#publications), [Miscellaneous](#miscellaneous)
 
-# First Author Publications - Journal
+# Domain Experience
 
+### Machine Learning
+As a part of my Ph.D. research and an internship at **Argonne National Laboratory**, I have carried out significant research on various aspects of machine learning applied to electric power systems. I have researched (and won an international competition) on the application of **reinforcement learning** for operation of power grids. I worked on the problem of **load forecasting** using **time-series foundation models**, and am currently concluding a project wherein I designed adapters for merging time-series foundation models with **weather foundation models** to create **weather-informed load forecasters**. Lastly, I worked on **machine-learning accelerators for optimization problems** which involved creating mixture-of-experts models that accelerate optimization problems by eliminating non-informative constraints, with each expert having a good understanding of different kinds of non-informative constraints.
 
+### Numerical Optimization
+I have conducted research on different kinds optimization problems with applications for electric power systems. These works can broadly be divided into two categories - **proposing new problem structures** and **solving existing problems more efficiently**. With respect to the former, I have worked **co-optimization of battery energy storage systems (BESS) with load restoration**, and **privacy-preserving load restoration using customer batteries**. With respect to the former, please see the Machine Learning section for work on accelerating optimization problems using neural networks.
 
-### Federated Short-Term Load Forecasting with Personalization Layers for Heterogeneous Clients ([arXiv Link](https://arxiv.org/abs/2309.13194))
+### Formal Methods
+I am currently enrolled in a graduate-level formal methods course. As a part of the same, I am working on two different projects:
+- Formally verifying safety of nonlinear control systems using reachability analysis.
+- Formally verifying machine learning proxies for Optimal Power Flow using $\alpha$-CROWN.
+
+### Control Theory
+I have worked on event-triggered control of linear systems over noisy channels between the sensor and the controller, resulting in a journal publication. I have also taken graduate courses on nonlinear and optimal control.
+
+# Journal Publications
+
+### Presolving convexified optimal power flow with mixtures of gradient experts ([Link](https://www.sciencedirect.com/science/article/pii/S2666546825001417))
+
+Authors: **Shourya Bose**, Kejun Chen, Yu Zhang. Energy and AI, 2025
+
+### Physics-Informed Gradient Estimation for Accelerating Deep Learning-Based AC-OPF ([Link](https://ieeexplore.ieee.org/abstract/document/10933585))
+
+Authors: Kejun Chen, **Shourya Bose**, Yu Zhang. IEEE Transactions on Industrial Informatics, 2025
+
+### Federated Short-Term Load Forecasting with Personalization Layers for Heterogeneous Clients ([arXiv](https://arxiv.org/abs/2309.13194))
 
 Authors: **Shourya Bose**, Kibaek Kim. Report.
-
-### A study on applications of specialized mixture-of-experts models for accelerating convex optimal power flow problems
-
-Authors: **Shourya Bose**, Kejun Chen, Yu Zhang. Exact title and manuscript unavailable due to double-blind review requirements.
 
 ### Load Restoration in Islanded Microgrids: Formulation and Solution Strategies ([Link](https://ieeexplore.ieee.org/document/10334063))
 
@@ -32,14 +50,14 @@ Authors: **Shourya Bose**, Yu Zhang. IEEE Transactions on Control of Network Sys
 
 ### Event-Triggered Second-Moment Stabilisation under Action-Dependent Markov Packet Drops ([Link](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cth2.12094))
 
-Authors: **Shourya Bose**, Pavankumar Tallapragada, IET Control Theory and Applications, 2021.
+Authors: **Shourya Bose**, Pavankumar Tallapragada. IET Control Theory and Applications, 2021.
 
 
-# First Author Publications - Conference
+# Conference Publications
 
 ### From RNNs to Foundation Models: An Empirical Study on Commercial Building Energy Consumption ([Link](https://neurips.cc/virtual/2024/103008))
 
-Authors: **Shourya Bose**, Yijiang Li, Amy Van Sant, Yu Zhang, Kibaek Kim
+Authors: **Shourya Bose**, Yijiang Li, Amy Van Sant, Yu Zhang, Kibaek Kim. NeurIPS Workshop on Time Series in the Age of Large Models, 2025
 
 ### Addressing Heterogeneity in Federated Load Forecasting with Personalization Layers ([Link](https://arxiv.org/abs/2404.01517))
 
@@ -65,24 +83,22 @@ Authors: **Shourya Bose**, Yu Zhang, IEEE ISGT NA 2022.
 
 Authors: **Shourya Bose**, Pavankumar Tallapragada. Fifth Indian Control Conference, 2019.
 
-# Other Works
+# Competition Victories
 
-### Pixxel Space
+### INFORMS Data Challenge 2025 - First Position
 
-I worked as a research intern at Pixxel Space. Pixxel is aiming to launch a constellation of earth observing satellites and revolutionize space-based data collection by using it to solve day-to-day problems.
+Internation competition with over 40 teams with the objective of forecasting electrical outages for 83 counties in Michigan over the span of 48 hours. Our team (myself, Tomas Kaljevic, Yu Zhang) preented a solution based on a two-stage forecasting model powered by gradient boosted decision trees.
 
-As a part of the company, I was involved in spacecraft orbit simulation.
+### Learning to Run a Power Grid (L2RPN), 2023 - First Position
 
-I also gained exposure to softwares such as NASA's GMAT, AGI's STK, and a.i. Solutions' FreeFlyer.
+International competition with over 90 participants with the objective of using reinforcement learning based techniques to operate a simulated power grid for 24 hours. Our team (myself, Qiuling Yang, Yu Zhang) presented a solution which used a mixture of classical optimization, Monte Carlo search, and policy optimization. 
 
 # Miscellaneous
 
-### Learning to Run a Power Grid (L2RPN, 2023)
+### Scholarships and Fellowships
 
-Out team (including myself, Qiuling Yang, and Yu Zhang) were the [**winners**](https://www.linkedin.com/feed/update/urn:li:activity:7108144367894233088/) of the L2RPN 2023 competition organized by TU Delft, which saw 95 teams from across the world compete in a competition to generate reinforcement-learning based methods to operate a power grid. The control action involved reconfiguring the grid topology, controlling the outputs of generators, and isolating various buses. Our strategy involved generating atomic actions which, when applied, reduced the control task to a continuous optimization problem which can be easily solved.
+As a part of my PhD journey, I am the grateful recipient of two competitive scholarships - the **Chancellor's Fellowship** covering the first year of my research, and the **Dissertation-Year Fellowship** covering the final year of my studies.
 
-### Hult Prize 2016 (Dubai Finals)
+### Space
 
-Hult Prize is an annual entrepreneurship competition organized on a global scale to encourage innovative entrepreneurial solutions to large-scale social problems. I was a part of _Project Vriddhi_, a team of 4 BITS Pilani, Goa students. We proposed an idea for urban decongestion using scheduled & shared transportation.
-This was in response to solve the problem of [urban crowded slums](http://www.hultprize.org/wp-content/uploads/2017/07/Hult-Prize-2016-Case-Study_FINAL.compressed.pdf),
-which was the Hult Prize Challenge for 2016. 
+I am a huge space enthusiast! While I mostly follow space launches and space science in a private capacity, I had the opportunity to contribute to Pixxel Space as an intern in 2019. As a part of that internship, I understood some of the factors behind sizing and orbit choice for a constellation of earth observation satellites.
